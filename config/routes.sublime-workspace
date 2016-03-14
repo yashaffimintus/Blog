@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"re",
+				"resource"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"up",
+				"upcoming"
+			],
+			[
+				"sc",
+				"schoolname"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"articl",
+				"article_path"
+			],
+			[
+				"sess",
+				"sessne"
+			],
+			[
+				"co",
+				"concn"
+			],
+			[
+				"start",
+				"start_with"
+			],
+			[
+				"dele",
+				"Delete"
+			],
+			[
+				"j",
+				"J"
+			],
+			[
+				"sort",
+				"sort_by"
+			],
+			[
+				"roll",
+				"roll_no"
+			],
+			[
+				"del",
+				"deleted"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"last",
+				"last1"
+			],
+			[
+				"first",
+				"first1"
+			],
+			[
+				"lea",
+				"leave1"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"un",
+				"unallocated"
+			],
+			[
+				"user",
+				"user15"
+			],
+			[
+				"has",
+				"hash1"
+			],
+			[
+				"max",
+				"max_ending_here"
+			],
+			[
+				"ma",
+				"max_ending_here"
+			],
+			[
+				"ar",
+				"arr1"
+			],
+			[
+				"arr",
+				"arr1"
+			],
+			[
+				"counter",
+				"counter2"
+			],
+			[
+				"cou",
+				"counter1"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"con",
+				"counter3"
+			],
+			[
+				"counte",
+				"counter2"
+			],
+			[
+				"cnt",
+				"counter1"
+			],
+			[
+				"list",
+				"list1"
+			],
+			[
+				"it",
+				"item1"
+			],
+			[
+				"lis",
+				"list"
+			],
+			[
+				"rever",
+				"reverse_string"
+			],
+			[
+				"R",
+				"Reverse"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"p",
+				"puts"
+			],
+			[
+				"sl",
+				"salary"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"M",
+				"Monday"
+			],
+			[
+				"AMOUNT",
+				"Amount"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"do",
+				"dogs"
+			],
+			[
+				"gra",
+				"grades"
+			],
+			[
+				"fin",
+				"financial"
+			],
+			[
+				"C",
+				"Celsius"
+			],
+			[
+				"f",
+				"full_name"
+			],
+			[
+				"fi",
+				"first_name"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"o",
+				"on_base_percentage"
+			],
+			[
+				"w",
+				"walks"
+			],
+			[
+				"ca",
+				"calculate"
+			],
+			[
+				"fa",
+				"fibonacci"
+			],
+			[
+				"su",
+				"sum"
+			],
+			[
+				"H",
+				"Hey"
+			],
+			[
+				"P",
+				"Person"
+			],
+			[
+				"cus",
+				"cust_id"
+			],
+			[
+				"gl",
+				"global2"
+			],
+			[
+				"globa",
+				"global1"
+			],
+			[
+				"cust",
+				"cust1"
+			],
+			[
+				"E",
+				"Example"
+			],
+			[
+				"di",
+				"display_details"
+			],
+			[
+				"Cla",
+				"Class1"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"as",
+				"assets"
+			],
+			[
+				"a",
+				"assets"
+			],
+			[
+				"emp",
+				"Employee"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"sa",
+				"salary_record"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"Pro",
+				"project"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"artic",
+				"articles"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"Ar",
+				"Article"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rordev02/workspace/logon/app/views/users/index.html.erb",
+		"/home/rordev02/workspace/logon/app/views/users/new.html.erb",
+		"/home/rordev02/workspace/logon/app/models/user.rb",
+		"/home/rordev02/workspace/logon/app/views/users/show.html.erb",
+		"/home/rordev02/workspace/logon/app/controllers/users_controller.rb",
+		"/home/rordev02/workspace/logon/app/controllers/sessions_controller.rb",
+		"/home/rordev02/workspace/logon/config/routes.rb",
+		"/home/rordev02/workspace/logon/db/migrate/20160226065650_create_users.rb",
+		"/home/rordev02/workspace/logon/app/views/login/index.html.erb",
+		"/home/rordev02/workspace/logon/config/database.yml",
+		"/home/rordev02/workspace/User_Auth/app/models/user.rb",
+		"/home/rordev02/workspace/Auth_user/config/routes.rb",
+		"/home/rordev02/workspace/Details/config/database.yml",
+		"/home/rordev02/workspace/Auth_user/app/views/users/new.html.erb",
+		"/home/rordev02/workspace/Auth_user/app/controllers/sessions_controller.rb",
+		"/home/rordev02/workspace/Auth_user/app/controllers/users_controller.rb",
+		"/home/rordev02/workspace/Auth_user/app/views/sessions/login,.html.erb",
+		"/home/rordev02/workspace/Auth_user/db/migrate/20160225115735_create_users.rb",
+		"/home/rordev02/workspace/Auth_user/app/controllers/application_controller.rb",
+		"/home/rordev02/workspace/Auth_user/app/views/sessions/profile.html.erb",
+		"/home/rordev02/workspace/Auth_user/app/models/user.rb",
+		"/home/rordev02/workspace/Auth_user/config/database.yml",
+		"/home/rordev02/workspace/User_Auth/app/views/sessions/login,.html.erb",
+		"/home/rordev02/workspace/User_Auth/app/views/users/new.html.erb",
+		"/home/rordev02/workspace/User_Auth/config/routes.rb",
+		"/home/rordev02/workspace/User_Auth/app/controllers/users_controller.rb",
+		"/home/rordev02/workspace/User_Auth/app/controllers/application_controller.rb",
+		"/home/rordev02/workspace/User_Auth/db/migrate/20160225080636_create_users.rb",
+		"/home/rordev02/workspace/User_Auth/app/views/sessions/profile,.html.erb",
+		"/home/rordev02/workspace/User_Auth/app/controllers/sessions_controller.rb",
+		"/home/rordev02/workspace/User_Auth/Gemfile",
+		"/home/rordev02/workspace/User_Auth/README.rdoc",
+		"/home/rordev02/workspace/User_Auth/Rakefile",
+		"/home/rordev02/workspace/User_Auth/Gemfile.lock",
+		"/home/rordev02/workspace/User_Auth/config/boot.rb",
+		"/home/rordev02/workspace/User_Auth/config/database.yml",
+		"/home/rordev02/workspace/blog/app/controllers/articles_controller.rb",
+		"/home/rordev02/workspace/detail/app/controllers/application_controller.rb",
+		"/home/rordev02/workspace/detail/app/controllers/students_controller.rb",
+		"/home/rordev02/workspace/blog/app/views/articles/_form.html.erb",
+		"/home/rordev02/workspace/detail/app/views/upcoming/index.html.erb",
+		"/home/rordev02/workspace/detail/app/views/students/new.html.erb",
+		"/home/rordev02/workspace/blog/app/models/article.rb",
+		"/home/rordev02/workspace/detail/config/routes.rb",
+		"/home/rordev02/workspace/detail/app/controllers/upcoming_controller.rb",
+		"/home/rordev02/workspace/student/app/controllers/hello_controller.rb",
+		"/home/rordev02/workspace/student/app/views/hello/index.html.erb",
+		"/home/rordev02/workspace/student/config/routes.rb",
+		"/home/rordev02/workspace/student/app/controllers/students_controller.rb",
+		"/home/rordev02/workspace/student/app/views/students/new.html.erb",
+		"/home/rordev02/workspace/blog/Gemfile",
+		"/home/rordev02/workspace/blog/config/routes.rb",
+		"/home/rordev02/workspace/blog/app/views/articles/show.html.erb",
+		"/home/rordev02/workspace/blog/app/views/articles/edit.html.erb",
+		"/home/rordev02/workspace/blog/app/views/articles/new.html.erb",
+		"/home/rordev02/workspace/blog/app/views/articles/index.html.erb",
+		"/home/rordev02/workspace/blog/app/views/welcome/index.html.erb",
+		"/home/rordev02/workspace/blog/db/migrate/20160222105951_create_articles.rb",
+		"/home/rordev02/Desktop/exprt.rb",
+		"/home/rordev02/Desktop/conference.rb",
+		"/home/rordev02/Desktop/n1.rb",
+		"/home/rordev02/Desktop/thrwmu.rb",
+		"/home/rordev02/Desktop/thrwm.rb",
+		"/home/rordev02/Desktop/Mailer.rb",
+		"/home/rordev02/Desktop/crtclsec.rb",
+		"/home/rordev02/Desktop/thr1.rb",
+		"/home/rordev02/Desktop/thr.rb",
+		"/home/rordev02/Desktop/testr.rb",
+		"/home/rordev02/Desktop/array1.rb",
+		"/home/rordev02/Desktop/yash/conference.rb",
+		"/home/rordev02/Desktop/yash/test1.rb",
+		"/home/rordev02/Desktop/mydir/tryon.txt",
+		"/home/rordev02/Desktop/tryom.txt",
+		"/home/rordev02/Desktop/samt.txt",
+		"/home/rordev02/Desktop/p030motorcycle.rb",
+		"/home/rordev02/Desktop/p031motorcycletest.rb",
+		"/home/rordev02/Desktop/Log.rb",
+		"/home/rordev02/Desktop/test12.rb",
+		"/home/rordev02/Desktop/overridd.rb",
+		"/home/rordev02/Desktop/marray.rb",
+		"/home/rordev02/Desktop/pol.rb",
+		"/home/rordev02/Desktop/begin.rb",
+		"/home/rordev02/Desktop/overlod.rb",
+		"/home/rordev02/Desktop/2myf.txt",
+		"/home/rordev02/Desktop/test.txt",
+		"/home/rordev02/Desktop/crt1.rb",
+		"/home/rordev02/Desktop/2myf.rb",
+		"/home/rordev02/Desktop/my.rb",
+		"/home/rordev02/Desktop/testv.rb",
+		"/home/rordev02/Desktop/myfirst.txt",
+		"/home/rordev02/Desktop/myfirst.text",
+		"/home/rordev02/Desktop/yash/proct.rb",
+		"/home/rordev02/Desktop/yash/camel.rb",
+		"/home/rordev02/Desktop/yash/Mammal.rb",
+		"/home/rordev02/Desktop/yash/extnd.rb",
+		"/home/rordev02/Desktop/yash/super1.rb",
+		"/home/rordev02/Desktop/yash/tes1.rb",
+		"/home/rordev02/Desktop/yash/down.rb",
+		"/home/rordev02/Desktop/project 2/p2.rb",
+		"/home/rordev02/Desktop/project 1/pr.rb",
+		"/home/rordev02/Desktop/project 2/example.rb",
+		"/home/rordev02/Desktop/project 1/p1.rb",
+		"/home/rordev02/Desktop/project 2/untitled",
+		"/home/rordev02/Desktop/project 1/p2.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa20.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa21.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa22.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa23.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa24.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa19.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa18.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa15.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa16.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa17.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa12.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa10.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa9.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa6.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa5.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa7.rb",
+		"/home/rordev02/Desktop/ASSIGNMENT 2/Q16.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa2.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa1.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa3.rb",
+		"/home/rordev02/Desktop/Assignment3/String/sa4.rb",
+		"/home/rordev02/Desktop/Assignment3/Hash/h7.rb",
+		"/home/rordev02/Desktop/Assignment3/Hash/h4.rb",
+		"/home/rordev02/Desktop/Assignment3/Hash/h5.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/rordev02/Documents/mis_development",
+			"<open files>,<current file>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".panel-body{\npanel-body",
+			"basic validation",
+			">\n",
+			" \n",
+			"dashboard",
+			"add new",
+			"Users table",
+			"Users  table",
+			"editable table",
+			"img",
+			"style",
+			"nicescroll-rails",
+			"#sidebar",
+			"aside",
+			"sidebar",
+			"logout",
+			"dashboard",
+			"search-icon.png",
+			"nav-expand.png",
+			"form-control xsmall",
+			"img",
+			"dcjq-parent",
+			"dashboard",
+			"Editable Table",
+			"<!",
+			"bank_identity_detail_display_user_employees",
+			"dispaly",
+			"@user",
+			"pry",
+			"      redirect_to ",
+			"background-color",
+			"previous",
+			"Details",
+			"welcome",
+			">\n",
+			"salary",
+			"project_record",
+			"end",
+			">",
+			"user",
+			"hr",
+			"tr",
+			"create",
+			"config.con",
+			"config.allow_unconfirmed_access_for = 365.days",
+			"    \n",
+			"border-width",
+			"box-shadow",
+			".form-control",
+			"first",
+			"img",
+			"latest",
+			".each do |artical|",
+			"Market Trends",
+			"Chart context menu",
+			"Download",
+			"pdf",
+			"street_id",
+			"btn-btn",
+			"====",
+			">>>>",
+			"<<<<<",
+			"  next_page",
+			"  }",
+			"20",
+			"article_ajax",
+			" :previous_label => \"« Previous post\", :next_label => \" Next post»\" ",
+			"login-popup",
+			"previous_page disabled",
+			"pagination",
+			"SORT_BY",
+			"\");",
+			"?\n",
+			">              ",
+			"pry",
+			"binding.pry",
+			" %>",
+			"form-group",
+			"type-prop",
+			"red",
+			"bedrooms",
+			"select#bedrooms",
+			"property_type",
+			"head",
+			"detail_sort",
+			"flex-control-nav flex-control-paging",
+			"collapse in",
+			"flexslider",
+			"collapse",
+			"articles",
+			"detail_sort",
+			"$('.facebook_ajax').html(\"<%= escape_javascript(render(\"detail_sort\"))%>\")",
+			"?%>\n",
+			"@articles",
+			"header-wrap",
+			"background",
+			"header-wrap",
+			"Kaminari",
+			"kaminari",
+			"{\n",
+			"\n    ",
+			"sort_by",
+			"detail_sort",
+			"content-content",
+			"%>",
+			"class",
+			"Please fill out this",
+			"firstname",
+			"form-control",
+			"Please fill",
+			"Please fiil",
+			".content-content",
+			"csv",
+			"loader-img",
+			"frm_csv",
+			"example2",
+			"article-head",
+			"home-dropdwon",
+			"record_users"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "routes.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app/views/articles/index.html.erb"
+			],
+			[
+				"ho",
+				"app/admin/house_sale.rb"
+			],
+			[
+				"app/views/properties/search.html.erb",
+				"app/views/properties/search.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"en",
+				"config/locales/en.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
