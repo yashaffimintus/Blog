@@ -3,6 +3,9 @@ class WelcomeController < ApplicationController
   end
   
   def xyz
+   hghg 
+
   end
 end
+
 
